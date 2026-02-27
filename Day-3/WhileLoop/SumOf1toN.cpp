@@ -1,3 +1,5 @@
+// need to focus on the vaariables 
+
 #include<iostream>
 using namespace std;
 
