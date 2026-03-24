@@ -1,0 +1,9 @@
+/*
+   
+    1. If , if-else
+    2. Nested
+    3. Else if ladder
+    4. Ternary 
+    5. Switch
+
+*/

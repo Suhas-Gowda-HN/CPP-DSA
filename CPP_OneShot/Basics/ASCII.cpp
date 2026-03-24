@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    
+    // the value of ASCII CHARACTERS to remember
+
+    /*
+     a = 97 , z = 122
+
+     A = 65 , Z = 90
+
+     '0' = 48 , '9' = 57
+    */
+
+    
+}
