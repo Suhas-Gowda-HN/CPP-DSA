@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     
-    // the value of ASCII CHARACTERS to remember
+    // the value of ASCII to remember
 
     /*
      a = 97 , z = 122
